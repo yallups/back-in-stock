@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-backinstock-dev-155725-authRole",
+            "UnauthRoleArn": "arn:aws:iam::517803433799:role/amplify-backinstock-dev-155725-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::517803433799:role/amplify-backinstock-dev-155725-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-backinstock-dev-155725-deployment",
+            "UnauthRoleName": "amplify-backinstock-dev-155725-unauthRole",
+            "StackName": "amplify-backinstock-dev-155725",
+            "StackId": "arn:aws:cloudformation:us-west-2:517803433799:stack/amplify-backinstock-dev-155725/6ad28060-ae92-11ea-8f57-021900937a08",
+            "AmplifyAppId": "dbdfegcomgl5m"
+        },
+        "categories": {
+            "auth": {
+                "backinstock0ab5552c": {}
+            }
+        }
+    }
+}
